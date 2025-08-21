@@ -37,7 +37,7 @@ project-management/
 ### Gantt Chart (Project Schedule)  
 Below is the exported Gantt Chart from Microsoft Project, showing the timeline, task dependencies, and milestones:  
 
-####Gantt Chart
+#### Gantt Chart
 
 <img width="939" height="462" alt="image" src="https://github.com/user-attachments/assets/4d05c29b-f358-478d-bfb9-c8676755ceb1" />
 <img width="906" height="421" alt="image" src="https://github.com/user-attachments/assets/79bb02e8-a722-47fe-abef-946c518a0304" />
@@ -45,11 +45,11 @@ Below is the exported Gantt Chart from Microsoft Project, showing the timeline, 
 <img width="1605" height="566" alt="image" src="https://github.com/user-attachments/assets/3870bb6e-85d8-4e40-b3d0-41c720b3a181" />
 <img width="1854" height="537" alt="image" src="https://github.com/user-attachments/assets/bf6da9e6-0831-4538-9e81-6a03d817fe99" />
 
-####Resources Sheet
+#### Resources Sheet
 
 <img width="1121" height="668" alt="image" src="https://github.com/user-attachments/assets/642678b9-7c67-43aa-a72a-3a5b8d2d2bdf" />
 
-####Critical Path
+#### Critical Path
 
 <img width="1099" height="826" alt="image" src="https://github.com/user-attachments/assets/d0954f92-9191-4531-89f4-4927e57d3812" />
 
