@@ -3,7 +3,7 @@
 This repository contains our **Software Project Management group project** for COMP3235.  
 The project is based on the **Global Treps Case Study**, where we act as project managers responsible for planning, cost estimation, scheduling, resource allocation, and risk/quality management.  
 
-📅 **Project Year: April 2023.**  
+📅 **Project Year: April 2024.**  
 
 ## 📖 Project Overview  
 The Global Treps Project focuses on creating a **non-profit organization and website** to support global entrepreneurship through “shark-tank-like” events.  
